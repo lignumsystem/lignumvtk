@@ -1,4 +1,4 @@
-#lignumvtk.py: 
+# lignumvtk.py: 
 
 Initial proposition to use vtk library
 to visualize Lignum with ParaView. The 'lignumvtk'
@@ -11,7 +11,7 @@ can be installed with MacPorts. Another
 possibility is to create python3 virtual environment
 and install nympy and vtk with 'pip'.
 
-#Usage:
+## Usage:
 
 LUKE160201L:vtk$ python lignumvtk.py -h
 
@@ -24,7 +24,7 @@ Options:
  + -c, --cylinder    Use segment base radius as segment top radius (pure cylinder)
 LUKE160201L:vtk$ 
    
-#coloredlines.py:
+# coloredlines.py:
 
 Demonstrates the use of vtk to visualize three
 cylindrical segments with tube filter.
