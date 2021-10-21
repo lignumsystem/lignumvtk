@@ -22,7 +22,6 @@ Options:
  + -i F1, --fxml=F1  Read Lignum xml file
  + -o F2, --fvtp=F2  VTP output file
  + -c, --cylinder    Use segment base radius as segment top radius (pure cylinder)
-LUKE160201L:vtk$ 
    
 # coloredlines.py:
 
