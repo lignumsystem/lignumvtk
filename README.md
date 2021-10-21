@@ -1,15 +1,15 @@
 # lignumvtk.py: 
 
 Initial proposition to use vtk library
-to visualize Lignum with ParaView. The 'lignumvtk'
-program creates 'vtp' xml file that can be imported
+to visualize Lignum with ParaView. The *lignumvtk*
+program creates *vtp* xml file that can be imported
 to ParaView.
 
 lignumvtk is a python3 program that requires numpy 
 and vtk python packages. These and the ParaView 
 can be installed with MacPorts. Another
 possibility is to create python3 virtual environment
-and install nympy and vtk with 'pip'.
+and install nympy and vtk with pip.
 
 ## Usage:
 
