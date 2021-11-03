@@ -11,6 +11,8 @@ can be installed with MacPorts. Another
 possibility is to create python3 virtual environment
 and install nympy and vtk with pip.
 
+Current status: visualize tree segments, wooden part.
+
 ## Usage:
 
 LUKE160201L:vtk$ python lignumvtk.py -h
